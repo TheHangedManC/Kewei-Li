@@ -2,7 +2,7 @@
 
 Hello! My name is Kewei Li. Currently I am studying for a Master's Degree in Mechanical Engineering (Graduation planned for June 2025) at China University of Petroleum (East China) under the supervision of [Prof. Lijun Zhang](https://www.linkedin.com/company/epam-systems/).
 
-📫 How to reach me: <a href='mailto:koveylee@gmail.com'>koveylee@gmail.com</a>
+📫 How to reach me: <a href='mailto:koveylee@gmail.com'>koveylee@gmail.com</a> | <a href='mailto:keweilic@gmail.com'>keweilic@gmail.com</a> | <a href='mailto:737082326@qq.com'>737082326@qq.com</a>
 
 ### ❤ Interest
 *   Vibroacoustics
