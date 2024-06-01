@@ -10,13 +10,18 @@ Hi! My name is Kewei Li. Currently I am studying for a Master's Degree in Mechan
 *   
 
 
-### My opensource projects
-
-*   
+### Research Papers
 *   
 *   
 *   
 
-### Educational experience
+
+### Education
 *   B.S. in Mechanical Design and Manufacturing and Automation, China University of Petroleum (East China), 2019.9 - 2023.6
 *   M.Sc. in Mechatronics Engineering, China University of Petroleum (East China), 2023.9 - 2025.6
+
+### Get rewarded
+*   Second Class Academic Scholarship for the first academic year of undergraduate studies
+*   First Class Academic Scholarship for the second academic year of undergraduate studies
+*   National Scholarship for the third academic year of undergraduate studies
+*   First Class Scholarship for the first year of the Master's programme
