@@ -9,7 +9,7 @@ Hello! My name is Kewei Li. Currently I am studying for a Master's Degree in Mec
 *   Digital Twins & Virtual Reality
 
 ### 🛠 Skills
-*   Software: **Deep learning** with *KERAS (Tensorflow), MATLAB toolbox*; **Finite element simulation** using *COMSOL, ANSYS, ABQUES* (solid mechanics, elastic waves); **Signal processing and analysis** via *MATLAB, PYTHON, LABVIEW*
+*   Software: **Deep learning** with *KERAS (Tensorflow), MATLAB toolbox*; **Finite element simulation** (solid mechanics, elastic waves) using *COMSOL, ANSYS, ABQUES*; **Signal processing and analysis** via *MATLAB, PYTHON, LABVIEW*
 *   Hardware: 
 
 ### 📕 Research Papers
