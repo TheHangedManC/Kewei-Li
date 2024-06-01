@@ -4,7 +4,7 @@ Hello! My name is Kewei Li. Currently I am studying for a Master's Degree in Mec
 
 
 ### 🛠 Skills
-*   Software: Deep learning with KERAS (Tensorflow), MATLAB toolbox; Finite element simulation using COMSOL, ANSYS, ABQUES (solid mechanics, elastic waves); Signal processing and analysis via MATLAB, PYTHON, LABVIEW
+*   Software: **Deep learning** with *KERAS (Tensorflow), MATLAB toolbox*; **Finite element simulation** using *COMSOL, ANSYS, ABQUES* (solid mechanics, elastic waves); **Signal processing and analysis** via *MATLAB, PYTHON, LABVIEW*
 *   Hardware: 
 
 ### 📕 Research Papers
