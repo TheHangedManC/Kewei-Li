@@ -2,6 +2,11 @@
 
 Hello! My name is Kewei Li. Currently I am studying for a Master's Degree in Mechanical Engineering (Graduation planned for June 2025) at China University of Petroleum (East China) under the supervision of [Prof. Lijun Zhang](https://www.linkedin.com/company/epam-systems/).
 
+### 🛠 Interest
+*   Vibroacoustics
+*   Sensing & Detection
+*   AI & Bionicist Technology
+*   Digital Twins & Virtual Reality
 
 ### 🛠 Skills
 *   Software: **Deep learning** with *KERAS (Tensorflow), MATLAB toolbox*; **Finite element simulation** using *COMSOL, ANSYS, ABQUES* (solid mechanics, elastic waves); **Signal processing and analysis** via *MATLAB, PYTHON, LABVIEW*
