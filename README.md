@@ -9,8 +9,9 @@ Hello! My name is Kewei Li. Currently I am studying for a Master's Degree in Mec
 *   Digital Twins & Virtual Reality
 
 ### 🛠 Skills
-*   Software: **Deep learning** with *KERAS (TENSORFLOW), MATLAB toolbox*; **Finite element simulation** (solid mechanics, elastic waves) using *COMSOL, ANSYS, ABQUES*; **Signal processing and analysis** via *MATLAB, PYTHON, LABVIEW*
-*   Hardware: 
+*   **Deep learning** with *KERAS (TENSORFLOW), MATLAB toolbox*
+*   **Finite element simulation** (solid mechanics, elastic waves) using *COMSOL, ANSYS, ABQUES*
+*   **Signal processing and analysis** via *MATLAB, PYTHON, LABVIEW*
 
 ### 📕 Research Papers
 *   L Zhang; **K Li**; H Wang; D Liu; Z Ma; Q Zhang; M Li; W Zhang; C Wang; L Ai. *MFC-PINN: A method to improve the accuracy and robustness of acoustic emission source planar localization. Measurement*. [DOI](https://www.sciencedirect.com/science/article/pii/S0263224124008807/)
