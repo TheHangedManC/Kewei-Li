@@ -2,7 +2,7 @@
 
 Hello! My name is Kewei Li. Currently I am studying for a Master's Degree in Mechanical Engineering (Graduation planned for June 2025) at China University of Petroleum (East China) under the supervision of [Prof. Lijun Zhang](https://www.linkedin.com/company/epam-systems/).
 
-📫 How to reach me: <a href='mailto:koveylee@gmail.com'>koveylee@gmail.com</a> | <a href='mailto:keweilic@gmail.com'>keweilic@gmail.com</a> | <a href='mailto:737082326@qq.com'>737082326@qq.com</a>
+📫 How to reach me: <a href='mailto:koveylee@gmail.com'>koveylee@gmail.com</a> | <a href='mailto:737082326@qq.com'>737082326@qq.com</a> | <a href='mailto:keweilic@gmail.com'>keweilic@gmail.com</a>
 
 ### ❤ Interest
 *   Vibroacoustics
@@ -17,7 +17,7 @@ Hello! My name is Kewei Li. Currently I am studying for a Master's Degree in Mec
 
 ### 📕 Research Papers
 *   L Zhang; **K Li**; H Wang; D Liu; Z Ma; Q Zhang; M Li; W Zhang; C Wang; L Ai. *MFC-PINN: A method to improve the accuracy and robustness of acoustic emission source planar localization. Measurement*. [DOI](https://www.sciencedirect.com/science/article/pii/S0263224124008807/)
-    (First author for the supervisor, second author for me)
+    ***(First author for the supervisor, second author for me)***
 *   Localization of unknown data from anisotropic plates by a single acoustic emission sensor. (Ongoing, upcoming submissions)
 
 ### 🎓 Education
