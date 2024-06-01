@@ -10,7 +10,8 @@ Hello! My name is Kewei Li. Currently I am studying for a Master's Degree in Mec
 *   
 
 ### Research Papers
-*   L Zhang; **K Li**; H Wang; D Liu; Z Ma; Q Zhang; M Li; W Zhang; C Wang; L Ai. *Research on a Multimodal Fusion Convolutional Physical Information Neural Networks Method for Improving the Precision of AE Source Planar Localization. Measurement*. (First author for the supervisor, second author for me) [DOI](https://www.sciencedirect.com/science/article/pii/S0263224124008807/)
+*   L Zhang; **K Li**; H Wang; D Liu; Z Ma; Q Zhang; M Li; W Zhang; C Wang; L Ai. *Research on a Multimodal Fusion Convolutional Physical Information Neural Networks Method for Improving the Precision of AE Source Planar Localization. Measurement*. [DOI](https://www.sciencedirect.com/science/article/pii/S0263224124008807/)
+    (First author for the supervisor, second author for me)
 *   Localization of unknown data from anisotropic plates by a single acoustic emission sensor. (Ongoing, upcoming submissions)
 
 ### Education
