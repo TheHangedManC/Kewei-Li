@@ -1,7 +1,7 @@
-# Hi! My name is Kewei Li.
+# About me
 
-Currently I am studying for a Master's Degree in Mechanical Engineering at China University of Petroleum (East China) under the supervision of [Prof. Lijun Zhang](https://www.linkedin.com/company/epam-systems/).
-Here is his cv.
+Hi! My name is Kewei Li. Currently I am studying for a Master's Degree in Mechanical Engineering (Graduation planned for June 2025) at China University of Petroleum (East China) under the supervision of [Prof. Lijun Zhang](https://www.linkedin.com/company/epam-systems/).
+
 
 ### Key points
 *   Creator of [CodeGym Community](https://github.com/codegymcommunity) and [Template Repository](https://github.com/template-repository) organizations.
