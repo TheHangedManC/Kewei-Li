@@ -8,9 +8,6 @@ Hello! My name is Kewei Li. Currently I am studying for a Master's Degree in Mec
 *   Finite element simulation using COMSOL, ANSYS, ABQUES (solid mechanics, elastic waves)
 *   Signal processing and analysis via MATLAB, PYTHON, LABVIEW
 
-### 🛠 Technology Stack
-*   
-
 ### 📕 Research Papers
 *   L Zhang; **K Li**; H Wang; D Liu; Z Ma; Q Zhang; M Li; W Zhang; C Wang; L Ai. *MFC-PINN: A method to improve the accuracy and robustness of acoustic emission source planar localization. Measurement*. [DOI](https://www.sciencedirect.com/science/article/pii/S0263224124008807/)
     (First author for the supervisor, second author for me)
